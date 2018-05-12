@@ -1,0 +1,35 @@
+_repo: From-sketch-book-and-diary_40925
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40925-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Butler, Elizabeth (Elizabeth Southerden Thompson)
+    aliases:
+    - Butler, Lady Elizabeth
+    - Thompson, Elizabeth Southerden
+    birthdate: 1846
+    deathdate: 1933
+    gutenberg_agent_id: '40898'
+    url: http://www.gutenberg.org/2009/agents/40898
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Thompson
+description: Illustrated by the author.
+gutenberg_issued: '2012-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40925'
+  lccn: w10000124
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Description and travel'
+- !lcsh 'Cape of Good Hope (South Africa) -- Description and travel'
+- !lcsh 'Egypt -- Description and travel'
+- !lcsh 'Ireland -- Description and travel'
+- !lcc 'G'
+tableOfContents: In the west of Ireland -- Egypt -- The Cape -- Italy.
+title: From sketch-book and diary
+url: http://www.gutenberg.org/ebooks/40925
